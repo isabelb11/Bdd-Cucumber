@@ -1,0 +1,30 @@
+2023-02-09 18:17:50,759 [main] INFO logger_File - user is on retail website
+2023-02-09 18:17:50,762 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-02-09 18:17:51,130 [main] INFO logger_File - user searched for product pokeman
+2023-02-09 18:19:01,073 [main] INFO logger_File - user is on retail website
+2023-02-09 18:19:01,082 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-02-09 18:19:01,440 [main] INFO logger_File - user searched for product pokeman
+2023-02-09 18:25:01,995 [main] INFO logger_File - user is on retail website
+2023-02-09 18:25:02,005 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-02-09 18:25:02,380 [main] INFO logger_File - user searched for product pokeman
+2023-02-09 18:40:17,480 [main] INFO logger_File - user is on retail website
+2023-02-09 18:40:40,071 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-02-09 18:42:38,149 [main] INFO logger_File - user searched for product pokeman
+2023-02-09 18:49:23,466 [main] INFO logger_File - user is on retail website
+2023-02-09 18:49:23,480 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-02-09 18:49:23,912 [main] INFO logger_File - user searched for product pokeman
+2023-02-09 19:09:11,355 [main] INFO logger_File - user is on retail website
+2023-02-09 19:09:11,363 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-02-09 19:09:11,931 [main] INFO logger_File - user searched for product pokeman
+2023-02-09 20:26:28,518 [main] INFO logger_File - user is on retail website
+2023-02-09 20:26:28,524 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-02-09 20:26:28,754 [main] INFO logger_File - user searched for product pokeman
+2023-02-09 20:34:22,771 [main] INFO logger_File - user is on retail website
+2023-02-09 20:34:22,776 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-02-09 20:34:22,985 [main] INFO logger_File - user searched for product pokeman
+2023-02-09 20:37:33,787 [main] INFO logger_File - user is on retail website
+2023-02-09 20:37:33,794 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-02-09 20:37:34,020 [main] INFO logger_File - user searched for product pokeman
+2023-02-09 20:43:45,984 [main] INFO logger_File - user is on retail website
+2023-02-09 20:43:45,992 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-02-09 20:43:46,367 [main] INFO logger_File - user searched for product pokeman
